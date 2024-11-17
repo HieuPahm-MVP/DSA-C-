@@ -64,6 +64,4 @@ int main(){
     std::cout << "Value for key 1: " << myMap.find(1) << std::endl;  
     std::cout << "Removing key 2: " << (myMap.remove(2) ? "Success" : "Not found") << std::endl;  
     // myMap.display(); // Hiển thị map sau khi xóa  
-    
-
 }
