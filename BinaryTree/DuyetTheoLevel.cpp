@@ -36,6 +36,7 @@ void levelOrder(node *root, int u, int v, char c){
         }
     }
 }   
+
 int main(){
     node *root = NULL;
     int n; cin>>n;
